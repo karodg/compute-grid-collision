@@ -1,0 +1,9 @@
+Variable,Constrained_Pre,Constrained_Post,Unconstrained_Pre,Unconstrained_Post,Diff_in_Diff
+PJM BRA Capacity Price (\$/MW-day),61.80 (28.50),455.30 (11.20),61.80 (28.50),269.92 (4.10),+185.38
+Data Center Contracted Load (MW),167.50 (330.50),650.30 (1172.20),30.50 (90.40),118.50 (323.90),+394.80
+Residential Retail Rate (cents/kWh),12.18 (0.38),17.02 (0.41),12.14 (0.39),14.62 (0.40),+2.36
+Industrial Retail Rate (cents/kWh),7.42 (0.32),11.52 (0.35),7.38 (0.31),9.18 (0.32),+2.30
+Chemical \& Metal Mfg Employment (NAICS 325/331),1770.00 (520.00),1518.00 (480.00),2450.00 (680.00),2377.00 (660.00),-179.00
+Manufacturing Weekly Wage (\$/week),1335.00 (55.00),1318.00 (42.00),1338.00 (58.00),1455.00 (52.00),-134.00
+Bottom Quintile Energy Burden (\% Income),9.27 (0.35),11.65 (0.45),9.27 (0.35),10.50 (0.40),+1.15
+Top Quintile Energy Burden (\% Income),1.43 (0.08),1.64 (0.09),1.43 (0.08),1.54 (0.08),+0.10
